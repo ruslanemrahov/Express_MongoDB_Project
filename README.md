@@ -193,7 +193,7 @@ const PORT = 5000;
 
 ## License
 
-ISC
+This project is for educational purposes and is open source.
 
 ## Contributing
 
